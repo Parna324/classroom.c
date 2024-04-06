@@ -10,6 +10,7 @@ int main() {
     
     printf("Enter the second double value: ");
     scanf("%lf", &double2);
+    // this is a wrong method parna i am raiseing pull request you accept it 
 
     
     printf("First double value: %.2lf\n", double1);
